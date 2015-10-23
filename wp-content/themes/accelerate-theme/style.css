@@ -616,20 +616,19 @@ aside.sidebar {
 .top-logo .sub-title {
 	display: block;
 }
-.top-nav {
+.nav-menu {
 	float: right;
-	padding-top: 22px;
 }
-.top-nav-link {
+.nav-menu li {
 	color: inherit;
 	display: inline-block;
-	font-size: 14px;
+	font-size: 16px;
 	line-height: normal;
 	margin-left: 35px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
-.top-nav-link:hover {
+.nav-menu li:hover {
 	border-bottom: 1px solid;
 }
 
